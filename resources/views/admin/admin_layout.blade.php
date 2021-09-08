@@ -10,6 +10,7 @@
   <body>
     <div class="container-scroller">
         @include('admin.partials._sidebar')
+        
         @include('admin.partials._header')
         <!-- partial -->
     <div class="main-panel">
